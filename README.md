@@ -1,2 +1,2 @@
 # platzivideo
-Proyecto de clase
+Proyecto de clase platzivideo
